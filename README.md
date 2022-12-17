@@ -1,6 +1,3 @@
-### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/chiragsahu/chiragsahu/blob/main/devcard.svg" width="400" alt="Chirag Sahu's Dev Card"/></a>
-
 <h1 align="center">Hi 👋, I'm Chirag Sahu</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -26,17 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragsahu&" alt="chiragsahu" /></p>
 
-<!--
-**chiragsahu/chiragsahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/chiragsahu/chiragsahu/blob/main/devcard.svg" width="250" height="300" alt="Chirag Sahu's Dev Card"/></a>
+ </p>

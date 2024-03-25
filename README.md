@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiragsahu&label=Profile%20views&color=0e75b6&style=flat" alt="chiragsahu" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & NodeJS ** 
 
-- 💬 Ask me about **Flutter, Laravel**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **chiragsahu@duck.com**
 
